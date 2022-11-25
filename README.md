@@ -17,5 +17,7 @@ Working  :-
 
 	 The Camera will capture image of person standing in front of it. The image will be passed further to Mask Detection Module which will detect a person face and using previous learned images will check if mask is present on person’s face or not. If mask is not found on person’s face, it will ring alarm or light up bulb as output. The system will works as follow : 
 
+![image](https://user-images.githubusercontent.com/84896867/203939413-accd1ad9-b277-489e-8c4e-6c42c27d029d.png)
+
  
 
