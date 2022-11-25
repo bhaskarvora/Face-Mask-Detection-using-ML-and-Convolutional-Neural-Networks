@@ -6,3 +6,16 @@ Abstract
 
 	The main objective of this project is to design a system which capturers user face and detects if mask if present or not. The most important part of the project is Mask Detection System which will be trained using neural networks. The project uses Python as the programming language which allows us to implement this system as Python contains libraries for data training which is required for the mask detection system to learn the difference between a person with mask and person without mask and provide accurate result. We will train the Mask Detection system with images of person with and without mask so using machine learning, it can discriminate between them. If a person without mask is detected then it will alarm that person to wear the mask. In this way, it helps in reducing the spread of Corona virus.
  
+
+
+	Introduction  
+Mask Detection system uses Computer Vision to check presence of mask on persons face. If mask is not detected then it alarms that person to wear the mask. The system Will be powered by PYTHON with its Deep learning libraires such as OpenCV, Keras, TensorFlow which makes Mask Detection Possible.
+
+Working  :-
+
+	The Core Component of Mask Detection System is Mask Detection Module. All the logic of mask detection will be uploaded in the module. The Alarm/Bulb will also be connected to the system which will ring if mask is not detected.  
+
+	 The Camera will capture image of person standing in front of it. The image will be passed further to Mask Detection Module which will detect a person face and using previous learned images will check if mask is present on person’s face or not. If mask is not found on person’s face, it will ring alarm or light up bulb as output. The system will works as follow : 
+
+ 
+
